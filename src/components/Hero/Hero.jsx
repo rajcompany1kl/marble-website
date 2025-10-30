@@ -16,7 +16,7 @@ const Hero = () => {
         </div>
 
         <div className="feature-card card">
-          <h3>Why Shree Marbles Udaipur?</h3>
+          <h3>Why MarbleLux?</h3>
           <p>Direct quarry sourcing • Export-quality finishes • Reliable supply for bulk orders</p>
         </div>
       </div>

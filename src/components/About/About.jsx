@@ -7,7 +7,7 @@ const About = () => (
       <div>
         <div className="kicker">About Us</div>
         <h2>We deliver stone excellence from quarry to site</h2>
-        <p /* style={{ textAlign: 'center' }} */>At Shree Marbles Udaipur, we bring the finest Indian marble and granite to your projects. With over 25 years of experience in natural stone trade, we ensure unmatched quality and reliability for builders and exporters.</p>
+        <p /* style={{ textAlign: 'center' }} */>At MarbleLux, we bring the finest Indian marble and granite to your projects. With over 25 years of experience in natural stone trade, we ensure unmatched quality and reliability for builders and exporters.</p>
         <p /* style={{ textAlign: 'center' }} */>We manage quarry selection, block cutting, slab processing, and global dispatch — all under one roof.</p>
 
         <div className="stats" style={{marginTop:18}}>
