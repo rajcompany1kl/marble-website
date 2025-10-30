@@ -134,6 +134,10 @@ color: #d1a56f;
 
 /* mobile */
 @media (max-width: 900px) {
+  .hero {
+     margin-top: 30px;
+     padding-top: 36px ;
+  }
   .hero .container {
     flex-direction: column;
     text-align: center;
@@ -143,5 +147,8 @@ color: #d1a56f;
   }
   .hero .feature-card {
     width: 100%;
+  }
+ .actions {
+    justify-content: center;
   }
 }
