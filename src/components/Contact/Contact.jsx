@@ -11,14 +11,14 @@ const Contact = () => (
         <p style={{fontWeight:700}}>📞 +91 98765 43210</p>
         <p style={{fontWeight:700}}>📧 info@marblelux.com</p>
         <p style={{marginTop:12, color:'var(--muted)'}}>We respond within 1 business day. For urgent enquiries call the number above.</p>
-         <a
+         {/* <a
           href="https://www.google.com/maps?q=Bhuvana,+Udaipur,+Rajasthan"
           target="_blank"
           rel="noopener noreferrer"
           className="map-btn"
         >
            Open in Google Maps
-        </a>
+        </a> */}
       </div>
 
       <div className="map card">
